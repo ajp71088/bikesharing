@@ -1,4 +1,5 @@
 # bikesharing
+Here's the full [Tableau story](https://public.tableau.com/views/Module14Challenge_bikesharing/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) with all of the visualizations.
 
 ### Overview of the analysis
 An exploration of a dataset from a New York City bike share program in order to learn insights that might be applied to the creation of a similar business investment in Des Moines, Iowa. Pandas was used to convert one of the datatypes from the dataset, and then several visualizations were built in Tableau with this updated dataset.
